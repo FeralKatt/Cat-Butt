@@ -33,7 +33,7 @@ WHITE     = (255, 255, 255)
 defaultFont = pygame.font.SysFont('comicsansms', 15)
 defaultFontColor = WHITE
 
-poop = "Look at by butthole"
+poop = "Look at my butthole"
 
 WINDOW_X = 1280
 WINDOW_Y = 720
