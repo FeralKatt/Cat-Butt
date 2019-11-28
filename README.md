@@ -1,2 +1,5 @@
 # Cat Butt
- A horrible Pygame demonstration of rects ans moving images
+ A horrible Pygame demonstration of rects and moving images
+
+
+Spent far longer on this than I would care to admit.
